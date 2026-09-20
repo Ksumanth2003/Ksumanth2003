@@ -25,11 +25,11 @@
 
 ### About
 
-I build **production LLM applications** — RAG pipelines, multi-agent orchestration, and the backends and interfaces that put them in front of real users.
+I build **production LLM applications**: RAG pipelines, multi-agent orchestration, and the backends and interfaces that put them in front of real users.
 
 I joined a newly formed AI department as an intern and helped turn it into a revenue-generating engineering division: establishing version control and code standards, running the team's Google Cloud infrastructure, and shipping two projects that became commercial service lines. I was promoted to a full-time developer role in **3.5 months**, ahead of the standard six-month schedule.
 
-I care about the parts people skip — chunking strategy, context precision, guardrails, and actually measuring whether the answers are faithful.
+I care about the parts people skip: chunking strategy, context precision, guardrails, and actually measuring whether the answers are faithful.
 
 **Currently:** building an enterprise agentic RAG system, and open to Generative AI engineering roles.
 
@@ -48,11 +48,11 @@ I care about the parts people skip — chunking strategy, context precision, gua
 ### Enterprise Agentic RAG System
 `in progress`
 
-A multi-agent retrieval assistant on **LangGraph** — Planner, Retriever, and Responder nodes with conversation memory — over PDF, HTML, DOCX and PPTX sources.
+A multi-agent retrieval assistant on **LangGraph**, with Planner, Retriever, and Responder nodes holding conversation memory, over PDF, HTML, DOCX and PPTX sources.
 
 - Paragraph-based chunking · **Jina Embeddings v3** with local fallback
 - **Qdrant** vector search + **Jina Reranker v3** for context precision
-- **Portkey** LLM gateway — OpenAI primary, Anthropic fallback
+- **Portkey** LLM gateway (OpenAI primary, Anthropic fallback)
 - **NeMo Guardrails** blocking jailbreak, prompt-injection, off-topic queries
 - Evaluated with **RAGAS** on a golden dataset; traced via LangSmith + Logfire
 
@@ -76,7 +76,7 @@ Architected and led a full-stack AI invoice pipeline with Gemini-driven extracti
 ### WhatsApp Automation Platform
 `WhatsApp Business API · PostgreSQL · Redis`
 
-Built independently — event registration, media collection and bulk certificate distribution at scale.
+Built independently: event registration, media collection and bulk certificate distribution at scale.
 
 - Redis queues for throughput under load
 - Unicode language detection that **bypasses expensive LLM inference** for routine classification
@@ -102,7 +102,7 @@ Co-developed a production Android app and web admin dashboard automating a clien
 ### AI Content Generation Pipeline (ESLM)
 `Internal tooling`
 
-Cut educational module creation for the Instructional Design team from **5 days to 15 minutes** — a 99% reduction in turnaround.
+Cut educational module creation for the Instructional Design team from **5 days to 15 minutes**, a 99% reduction in turnaround.
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +110,7 @@ Cut educational module creation for the Instructional Design team from **5 days 
 ### Silkworm Cocoon Quality Classification
 `YOLOv5 · ResNet50 · Streamlit`
 
-Two-stage deep learning pipeline — real-time cocoon detection plus quality grading — replacing a manual silk-grading process, with a live Streamlit dashboard.
+Two-stage deep learning pipeline doing real-time cocoon detection plus quality grading, replacing a manual silk-grading process, with a live Streamlit dashboard.
 
 </td>
 </tr>
@@ -167,16 +167,16 @@ Two-stage deep learning pipeline — real-time cocoon detection plus quality gra
 
 ## Experience
 
-**Junior Generative AI Developer** — Karanji Infotech Pvt. Ltd., Mangalore · *Sep 2025 – Sep 2026*
+**Junior Generative AI Developer**, Karanji Infotech Pvt. Ltd., Mangalore · *Sep 2025 – Sep 2026*
 Led the GenAI team's shift from an internal e-learning support unit to a revenue-generating software division. Owned end-to-end GCP infrastructure: Vertex AI, Cloud Run, IAM restrictions, VPC configuration for client integrations, API key provisioning and cost monitoring.
 
-**Generative AI Intern** — Karanji Infotech Pvt. Ltd. · *May 2025 – Aug 2025*
-Delivered foundational PoC AI tools and joined client pitches with senior management — work that convinced the company to shift the department toward commercial software development. Promoted to full-time in 3.5 months.
+**Generative AI Intern**, Karanji Infotech Pvt. Ltd. · *May 2025 – Aug 2025*
+Delivered foundational PoC AI tools and joined client pitches with senior management, work that convinced the company to shift the department toward commercial software development. Promoted to full-time in 3.5 months.
 
-**AI/ML Intern** — Kakunje Software Pvt. Ltd., Mangalore · *Feb 2025 – May 2025*
+**AI/ML Intern**, Kakunje Software Pvt. Ltd., Mangalore · *Feb 2025 – May 2025*
 Built a talking-avatar chatbot (D-ID, ElevenLabs, Gemini 1.5 Flash, ChromaDB, LangGraph) and a semantic resume filtering system on LangChain with FAISS and Pinecone, tuned via LangSmith.
 
-**B.E. Artificial Intelligence & Machine Learning** — Canara Engineering College, Mangalore · *2021–2025* · CGPA **8.34/10**
+**B.E. Artificial Intelligence & Machine Learning**, Canara Engineering College, Mangalore · *2021–2025* · CGPA **8.34/10**
 
 ---
 
