@@ -182,10 +182,6 @@ Built a talking-avatar chatbot (D-ID, ElevenLabs, Gemini 1.5 Flash, ChromaDB, La
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ksumanth2003&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&bg_color=00000000" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksumanth2003&layout=compact&count_private=true&hide_border=true&title_color=3B82F6&bg_color=00000000&langs_count=8" alt="Top languages" height="165" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksumanth2003&hide_border=true&background=00000000&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" alt="Streak" height="150" />
 
