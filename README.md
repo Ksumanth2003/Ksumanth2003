@@ -183,7 +183,11 @@ Built a talking-avatar chatbot (D-ID, ElevenLabs, Gemini 1.5 Flash, ChromaDB, La
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksumanth2003&hide_border=true&background=00000000&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" alt="Streak" height="150" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ksumanth2003&hide_border=true&background=00000000&ring=3B82F6&fire=F97316&stroke=30363D&sideNums=E6EDF3&currStreakNum=FFFFFF&sideLabels=8B949E&currStreakLabel=58A6FF&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ksumanth2003&hide_border=true&background=00000000&ring=3B82F6&fire=F97316&stroke=D0D7DE&sideNums=1F2328&currStreakNum=1F2328&sideLabels=59636E&currStreakLabel=0969DA&dates=59636E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ksumanth2003&hide_border=true&background=00000000&ring=3B82F6&fire=F97316&stroke=D0D7DE&sideNums=1F2328&currStreakNum=1F2328&sideLabels=59636E&currStreakLabel=0969DA&dates=59636E" alt="Contribution streak" height="150" />
+</picture>
 
 </div>
 
