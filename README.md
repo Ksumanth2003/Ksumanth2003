@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="200" valign="top">
-<img src="assets/profile.jpg" width="190" alt="K Sumanth" />
+<img src="https://raw.githubusercontent.com/Ksumanth2003/Ksumanth2003/main/assets/profile.jpg" width="190" alt="K Sumanth" />
 </td>
 <td valign="top">
 
